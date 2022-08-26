@@ -1,0 +1,26 @@
+.box1{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    padding: 15px;
+    border: 5px solid red
+    ;
+    display: inline-block;
+    margin-right: 40PX;
+    position: relative;
+    left: 500px
+    ;
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+    padding: 15px;
+    border: 5px solid  rgb(116, 216, 116)
+    ;
+    display: inline-block;
+    margin-right: 40PX;
+    position: absolute;
+    top: 50px;
+    right:100px ;
+}
